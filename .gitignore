@@ -34,9 +34,10 @@ build/
 
 /.mvn
 /.setting
-/.target
+/target
 /.classpath
 /.project
-/.mvnw
-/.HELP
-/.pom
+/mvnw
+/mvnw.cmd
+/HELP.md
+/pom.xml
